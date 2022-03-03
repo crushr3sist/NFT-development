@@ -8,9 +8,7 @@ from picture_generator import *
 '''
 input: the amount of unique pictures being minted
 '''
-make_multiples(
-  5
-)
+make_multiples( 2 )
 ```
 
 # Result

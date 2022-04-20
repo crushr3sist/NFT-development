@@ -1,5 +1,5 @@
 # NFT-development
-
+NFT asset development example. Using the principles of nfts, making a Pseudo-NFT
 to produce sqiggily nfts
 
 ```py
